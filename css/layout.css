@@ -328,35 +328,35 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
-  	width: 60%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
-}
-.illustrator {
-  	width: 55%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
-}
-.wordpress {
-  	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
-}
-.css {
-  	width: 90%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
-}
-.html5 {
+.C\+\+ {
   	width: 80%;
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
+  	-moz-animation: C++ 2s ease;
+  	-webkit-animation: C++ 2s ease;
 }
-.jquery {
-  	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+.C {
+  	width: 75%;
+  	-moz-animation: C 2s ease;
+  	-webkit-animation: C 2s ease;
+}
+.JavaScript {
+  	width: 70%;
+  	-moz-animation: JavaScript 2s ease;
+  	-webkit-animation: JavaScript 2s ease;
+}
+.CSS {
+  	width: 60%;
+  	-moz-animation: CSS 2s ease;
+  	-webkit-animation: CSSss 2s ease;
+}
+.HTML5 {
+  	width: 80%;
+  	-moz-animation: HTML5 2s ease;
+  	-webkit-animation: HTML5 2s ease;
+}
+.Scripting {
+  	width: 80%;
+  	-moz-animation: Scripting 2s ease;
+  	-webkit-animation: Scripting 2s ease;
 }
 
 @-moz-keyframes photoshop {
