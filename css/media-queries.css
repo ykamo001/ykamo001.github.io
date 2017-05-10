@@ -36,6 +36,11 @@
       font: 17px/1.9em 'librebaskerville-regular', serif;
       width: 80%;
    }
+
+   header .banner-text h7 {
+      font: 17px/1.9em 'librebaskerville-regular', serif;
+      width: 80%;
+   }
    header .banner-text hr {
       width: 65%;
       margin: 12px auto;
