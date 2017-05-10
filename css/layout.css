@@ -358,57 +358,69 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: Scripting 2s ease;
   	-webkit-animation: Scripting 2s ease;
 }
+.SQL {
+  	width: 80%;
+  	-moz-animation: Scripting 2s ease;
+  	-webkit-animation: Scripting 2s ease;
+}
 
-@-moz-keyframes photoshop {
-  0%   { width: 0px;  }
-  100% { width: 60%;  }
-}
-@-moz-keyframes illustrator {
-  0%   { width: 0px;  }
-  100% { width: 55%;  }
-}
-@-moz-keyframes wordpress {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
-}
-@-moz-keyframes css {
-  0%   { width: 0px;  }
-  100% { width: 90%;  }
-}
-@-moz-keyframes html5 {
+@-moz-keyframes C\+\+{
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-moz-keyframes jquery {
+@-moz-keyframes C {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 75%;  }
 }
-
-@-webkit-keyframes photoshop {
+@-moz-keyframes JavaScript {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
+}
+@-moz-keyframes CSS {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-webkit-keyframes illustrator {
-  0%   { width: 0px;  }
-  100% { width: 55%;  }
-}
-@-webkit-keyframes wordpress {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
-}
-@-webkit-keyframes css {
-  0%   { width: 0px;  }
-  100% { width: 90%;  }
-}
-@-webkit-keyframes html5 {
+@-moz-keyframes HTML5 {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-webkit-keyframes jquery {
+@-moz-keyframes Scripting {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 80%;  }
+}
+@-moz-keyframes SQL {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
 }
 
+@-webkit-keyframes C\+\+{
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-webkit-keyframes C {
+  0%   { width: 0px;  }
+  100% { width: 75%;  }
+}
+@-webkit-keyframes JavaScript {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
+}
+@-webkit-keyframes CSS {
+  0%   { width: 0px;  }
+  100% { width: 60%;  }
+}
+@-webkit-keyframes HTML5 {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-webkit-keyframes Scripting {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-webkit-keyframes SQL {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
 /* ------------------------------------------------------------------ */
