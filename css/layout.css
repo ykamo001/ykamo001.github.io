@@ -329,7 +329,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .C\+\+ {
-  	width: 80%;
+  	width: 83%;
   	-moz-animation: C++ 2s ease;
   	-webkit-animation: C++ 2s ease;
 }
@@ -349,24 +349,24 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: CSS 2s ease;
 }
 .HTML5 {
-  	width: 80%;
+  	width: 73%;
   	-moz-animation: HTML5 2s ease;
   	-webkit-animation: HTML5 2s ease;
 }
 .Scripting {
-  	width: 80%;
+  	width: 76%;
   	-moz-animation: Scripting 2s ease;
   	-webkit-animation: Scripting 2s ease;
 }
 .SQL {
-  	width: 80%;
+  	width: 68%;
   	-moz-animation: SQL 2s ease;
   	-webkit-animation: SQL 2s ease;
 }
 
 @-moz-keyframes C\+\+{
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 83%;  }
 }
 @-moz-keyframes C {
   0%   { width: 0px;  }
@@ -382,20 +382,20 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes HTML5 {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 73%;  }
 }
 @-moz-keyframes Scripting {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 76%;  }
 }
 @-moz-keyframes SQL {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 68%;  }
 }
 
 @-webkit-keyframes C\+\+{
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 83%;  }
 }
 @-webkit-keyframes C {
   0%   { width: 0px;  }
@@ -411,15 +411,15 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes HTML5 {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 73%;  }
 }
 @-webkit-keyframes Scripting {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 76%;  }
 }
 @-webkit-keyframes SQL {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 68%;  }
 }
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
