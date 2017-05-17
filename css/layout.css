@@ -327,12 +327,12 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .C\+\+ {
-  	width: 83%;
+  	width: 90%;
   	-moz-animation: C++ 2s ease;
   	-webkit-animation: C++ 2s ease;
 }
 .C {
-  	width: 75%;
+  	width: 85%;
   	-moz-animation: C 2s ease;
   	-webkit-animation: C 2s ease;
 }
@@ -364,11 +364,11 @@ ul#nav li.current a { color: #F06000; }
 
 @-moz-keyframes C\+\+{
   0%   { width: 0px;  }
-  100% { width: 83%;  }
+  100% { width: 90%;  }
 }
 @-moz-keyframes C {
   0%   { width: 0px;  }
-  100% { width: 75%;  }
+  100% { width: 85%;  }
 }
 @-moz-keyframes JavaScript {
   0%   { width: 0px;  }
@@ -393,11 +393,11 @@ ul#nav li.current a { color: #F06000; }
 
 @-webkit-keyframes C\+\+{
   0%   { width: 0px;  }
-  100% { width: 83%;  }
+  100% { width: 90%;  }
 }
 @-webkit-keyframes C {
   0%   { width: 0px;  }
-  100% { width: 75%;  }
+  100% { width: 85%;  }
 }
 @-webkit-keyframes JavaScript {
   0%   { width: 0px;  }
