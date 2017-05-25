@@ -327,17 +327,17 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .C\+\+ {
-  	width: 90%;
+  	width: 100%;
   	-moz-animation: C++ 2s ease;
   	-webkit-animation: C++ 2s ease;
 }
 .C {
-  	width: 85%;
+  	width: 95%;
   	-moz-animation: C 2s ease;
   	-webkit-animation: C 2s ease;
 }
 .JavaScript {
-  	width: 70%;
+  	width: 85%;
   	-moz-animation: JavaScript 2s ease;
   	-webkit-animation: JavaScript 2s ease;
 }
@@ -347,7 +347,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: CSS 2s ease;
 }
 .HTML5 {
-  	width: 65%;
+  	width: 80%;
   	-moz-animation: HTML5 2s ease;
   	-webkit-animation: HTML5 2s ease;
 }
@@ -357,22 +357,22 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: Scripting 2s ease;
 }
 .SQL {
-  	width: 66%;
+  	width: 100%;
   	-moz-animation: SQL 2s ease;
   	-webkit-animation: SQL 2s ease;
 }
 
 @-moz-keyframes C\+\+{
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 100%;  }
 }
 @-moz-keyframes C {
   0%   { width: 0px;  }
-  100% { width: 85%;  }
+  100% { width: 95%;  }
 }
 @-moz-keyframes JavaScript {
   0%   { width: 0px;  }
-  100% { width: 70%;  }
+  100% { width: 85%;  }
 }
 @-moz-keyframes CSS {
   0%   { width: 0px;  }
@@ -380,7 +380,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes HTML5 {
   0%   { width: 0px;  }
-  100% { width: 65%;  }
+  100% { width: 80%;  }
 }
 @-moz-keyframes Scripting {
   0%   { width: 0px;  }
@@ -388,20 +388,20 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes SQL {
   0%   { width: 0px;  }
-  100% { width: 66%;  }
+  100% { width: 100%;  }
 }
 
 @-webkit-keyframes C\+\+{
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 100%;  }
 }
 @-webkit-keyframes C {
   0%   { width: 0px;  }
-  100% { width: 85%;  }
+  100% { width: 95%;  }
 }
 @-webkit-keyframes JavaScript {
   0%   { width: 0px;  }
-  100% { width: 70%;  }
+  100% { width: 85%;  }
 }
 @-webkit-keyframes CSS {
   0%   { width: 0px;  }
@@ -409,7 +409,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes HTML5 {
   0%   { width: 0px;  }
-  100% { width: 65%;  }
+  100% { width: 80%;  }
 }
 @-webkit-keyframes Scripting {
   0%   { width: 0px;  }
@@ -417,7 +417,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes SQL {
   0%   { width: 0px;  }
-  100% { width: 66%;  }
+  100% { width: 100%;  }
 }
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
